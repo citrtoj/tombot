@@ -1,0 +1,9 @@
+discord.py==2.2.3
+eng_to_ipa==0.0.2
+Flask==2.3.2
+Pillow==9.5.0
+Pillow==9.5.0
+python-dotenv==1.0.0
+reportlab==4.0.0
+Requests==2.30.0
+svglib==1.5.1
